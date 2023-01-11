@@ -1,7 +1,7 @@
 Hi There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  My name is Raj Mohammad
 ==========================================================================================================================================
-Motivated student and aspiring Software Developer
--------------------------------------------------
+Aspiring Software Developer
+---------------------------
 
 I have a passion for building aesthetic, responsive websites, with a key focus on user experience. I can effectively produce high quality multi-page web applications having fluency and knowledge of best practices in React, JavaScript, HTML and CSS, . I also love to work on backend solutions using Python and incorporating this into my projects. 
 
