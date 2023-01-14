@@ -37,10 +37,12 @@ I have a passion for building aesthetic, responsive websites, with a key focus o
 </p>
 
 ### GitHub Profile
+<div align="center">
+  <a href="http://www.github.com/rajmoham" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=rajmoham&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&show_icons=true" alt="rajmoham's GitHub stats" />
+  </a>
+</div>
 
-#### Stats
-<a href="http://www.github.com/rajmoham"><img src="https://github-readme-stats.vercel.app/api?username=rajmoham&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&show_icons=true" alt="rajmoham's GitHub stats" />
-</a>
 
 #### Top Repositories
 <div width="100%">
@@ -54,7 +56,7 @@ I have a passion for building aesthetic, responsive websites, with a key focus o
 
 <br/><br/><br /><br /><br /><br /><br />
 
-<div width="100%" align="left">
+<div width="100%">
   <a href="https://github.com/rajmoham/Song-Downloader" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajmoham&repo=Song-Downloader&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en" />
   </a>
