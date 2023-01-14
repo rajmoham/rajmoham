@@ -47,13 +47,18 @@ I have a passion for building aesthetic, responsive websites, with a key focus o
   <a href="https://github.com/rajmoham/nft-marketplace" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajmoham&repo=nft-marketplace&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en" />
   </a>
-  <a href="https://github.com/rajmoham/FakeStore" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajmoham&repo=FakeStore&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/rajmoham/FakeStore" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajmoham&repo=FakeStore&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en" />
+  </a>
 </div>
 
 <br/><br/><br /><br /><br /><br /><br />
 
 <div width="100%" align="left">
-  <a href="https://github.com/rajmoham/Song-Downloader" align="center">
+  <a href="https://github.com/rajmoham/Song-Downloader" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajmoham&repo=Song-Downloader&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en" />
+  </a>
+    <a href="https://github.com/rajmoham/Studio-Ghibli" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajmoham&repo=Studio-Ghibli&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en" />
   </a>
 </div>
