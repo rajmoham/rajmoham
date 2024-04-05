@@ -6,7 +6,7 @@ Student & Aspiring Software Developer
 I have a passion for building aesthetic, responsive websites, with a key focus on user experience. I can effectively produce high quality multi-page web applications having fluency and knowledge of best practices in React, JavaScript, HTML and CSS, . I also love to work on backend solutions using Python and incorporating this into my projects. 
 
 - 🌍  I'm based in London, England <br>
-- 🖥️  See my portfolio at [this Amazing Website](https://www.rajmoham.co.uk)
+- 🖥️  See my portfolio at [this Amazing Website](https://rajmoham.github.io)
 
 ### Skills
 
