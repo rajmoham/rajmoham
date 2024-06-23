@@ -36,30 +36,3 @@ I have a passion for building aesthetic, responsive websites, with a key focus o
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
 </p>
-
-### GitHub Profile
-<div align="center">
-  <a href="http://www.github.com/rajmoham" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rajmoham&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&show_icons=true" alt="rajmoham's GitHub stats" />
-  </a>
-</div>
-
-
-#### Top Repositories
-<div width="70%" align="center">
-  <a href="https://github.com/rajmoham/nft-marketplace">
-    <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=rajmoham&repo=nft-marketplace&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/rajmoham/FakeStore">
-    <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=rajmoham&repo=FakeStore&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/rajmoham/Song-Downloader">
-    <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=rajmoham&repo=Song-Downloader&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en" />
-  </a>
-  <br/><br/>
-    <a href="https://github.com/rajmoham/Studio-Ghibli">
-    <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=rajmoham&repo=Studio-Ghibli&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en" />
-  </a>
-</div>
