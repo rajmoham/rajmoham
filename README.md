@@ -47,16 +47,4 @@ Software Developer
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL"/> &nbsp;
   <br />
   MySQL, MongoDB, GraphQL
-</p>
-
-### Socials
-<p align="left">
-  &nbsp;
-  <a href="https://www.github.com/rajmoham" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
-  </a> 
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <a href="https://www.linkedin.com/in/raj-mohammad" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>
-</p>
+</p
