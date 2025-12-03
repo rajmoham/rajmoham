@@ -4,10 +4,19 @@ Software Developer
 -------------------------------------
 
 - 🌍  I'm based in London, England <br>
-- 💚  Interested in full stack, AI, ML and Data Analytics
+- ❤️  Interested in low level and hardware development
 - 🖥️  See my [online portfolio](https://rajmoham.github.io)
 
 ### Skills
+#### Languages
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java"/> &nbsp;
+  &nbsp;
+  <br />
+  C++, Java
+</p>
+
 #### Frontend
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React"/> &nbsp;
