@@ -6,6 +6,7 @@ Software Developer
 - 🌍  I'm based in London, England <br>
 - ❤️  Interested in low level and hardware development
 - 🖥️  See my [online portfolio](https://rajmoham.github.io)
+- 🌱  Also have a look at my [Digital Garden](https://rajmoham.github.io/digital-garden)
 
 ### Skills
 #### Languages
